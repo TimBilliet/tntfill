@@ -1,0 +1,12 @@
+name: Tntfill
+version: '${project.version}'
+main: com.github.timbilliet.tntfill.Tntfill
+api-version: 1.21
+commands:
+  tntfill:
+    description: Fill nearby dispensers with TNT
+    usage: /tntfill
+    aliases: tf
+  tntunfill:
+    description: Unfill TNT from nearby dispensers
+    usage: /tntunfill
