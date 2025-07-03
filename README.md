@@ -1,4 +1,4 @@
-## Sample SpigotMC plugin to fill dispensers with tnt and unfill dispensers.
+## Simple SpigotMC plugin to fill dispensers with tnt and unfill dispensers.
 ## Usage
 ### Filling
 - /tntfill (fills all dispensers in a 64 block radius with 576 tnt)
